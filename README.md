@@ -6,9 +6,9 @@ Group IT-2513: Danaiym Kapesova, Saida Amirgalieva, Kaussar Meirambekkyzy, Amina
 
 Repository
 
-- URL: (add after publishing)
+- URL: https://github.com/Danaiiim/OrderProcessingPipeline
 - Branch: main
-- Final commit: (add after the last commit)
+- Final code commit: dfe40aa1066259df7adcb26fbaab572b445bf7ba
 
 About the project
 
