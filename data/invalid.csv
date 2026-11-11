@@ -1,0 +1,6 @@
+OrderId,CustomerTier,DistanceKm,ItemTotal,WeightKg
+,REGULAR,5,1000,1
+ORD-A,,5,1000,1
+ORD-B,VIP,5,-100,1
+ORD-C,VIP,5,1000
+ORD-D,REGULAR,5,1000,heavy
